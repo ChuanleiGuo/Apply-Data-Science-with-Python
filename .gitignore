@@ -6,3 +6,7 @@ __pycache__/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+
+# not necessary
+*.pdf
+*.png
